@@ -16,5 +16,10 @@ namespace Empleados
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Esteban Lezcano"+ "\n"+ "Alcides Paiva"+ "\n" + "Ruben Ortiz" + "\n" + "Antonio");
+        }
     }
 }

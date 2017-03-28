@@ -7,3 +7,4 @@ c:\users\csarl\documents\visual studio 2015\Projects\Empleados\Empleados\obj\Deb
 c:\users\csarl\documents\visual studio 2015\Projects\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.Cache
 c:\users\csarl\documents\visual studio 2015\Projects\Empleados\Empleados\obj\Debug\Empleados.exe
 c:\users\csarl\documents\visual studio 2015\Projects\Empleados\Empleados\obj\Debug\Empleados.pdb
+C:\Users\csarl\Documents\Visual Studio 2015\Projects\Empleados\Empleados\obj\Debug\Empleados.FormPrincipal.resources
