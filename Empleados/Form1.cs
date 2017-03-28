@@ -22,7 +22,7 @@ namespace Empleados
         {
             
             SqlConnection con = new SqlConnection("Data Source=localhost; Initial Catalog=sistemadenomina; Integrated Security=true");
-            //hol
+            //prueba commityyuiyu
             try
             {
                 SqlCommand cmd = new SqlCommand("select nombre, contrasena from usuarios where nombre ='" + txtUsuario.Text + "' and contrasena ='" + txtContrasena.Text + "'", con);
