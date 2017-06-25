@@ -1,0 +1,60 @@
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\bin\Debug\InterfazEmpleados.exe.config
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\bin\Debug\InterfazEmpleados.exe
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\bin\Debug\InterfazEmpleados.pdb
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\bin\Debug\BibliotecaProyecto.dll
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.Properties.Resources.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.csproj.GenerateResource.Cache
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.exe
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.pdb
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmCambioCargo.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmCargo.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmDiaLibre.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmEmpleado.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmHoraExtra.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmMarcacion.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmMenuPrincipal.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmParametroSistema.resources
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmReposo.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\bin\Debug\InterfazEmpleados.exe.config
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.exe
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.pdb
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\bin\Debug\InterfazEmpleados.exe
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\bin\Debug\InterfazEmpleados.pdb
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\bin\Debug\BibliotecaProyecto.dll
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmCambioCargo.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmCargo.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmDiaLibre.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmEmpleado.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmHoraExtra.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmMarcacion.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmMenuPrincipal.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmParametroSistema.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmReposo.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.Properties.Resources.resources
+C:\Users\csarl\Desktop\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.csproj.GenerateResource.Cache
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\InterfazEmpleados.exe.config
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.exe
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.pdb
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\InterfazEmpleados.exe
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\InterfazEmpleados.pdb
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\BibliotecaProyecto.dll
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\MetroFramework.Design.dll
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\MetroFramework.dll
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmCambioCargo.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmCargo.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmDiaLibre.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmEmpleado.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmHoraExtra.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmMarcacion.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmMenuPrincipal.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmParametroSistema.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmReposo.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.Properties.Resources.resources
+C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.csproj.GenerateResource.Cache

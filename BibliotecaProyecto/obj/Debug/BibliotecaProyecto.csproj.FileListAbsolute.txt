@@ -1,0 +1,20 @@
+C:\Users\alumno-201\Downloads\Empleados\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.dll
+C:\Users\alumno-201\Downloads\Empleados\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\alumno-201\Downloads\Empleados\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Downloads\Empleados\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.dll
+C:\Users\alumno-201\Downloads\Empleados\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.dll
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.dll
+C:\Users\alumno-201\Downloads\Proyecto c#\Empleados 2do Hito\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
+C:\Users\csarl\Desktop\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
+C:\Users\csarl\Desktop\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.dll
+C:\Users\csarl\Desktop\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
+C:\Users\csarl\Desktop\empleados2do\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.dll
+C:\Users\csarl\Desktop\empleados2do\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.dll
+C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
+C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.dll
+C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
