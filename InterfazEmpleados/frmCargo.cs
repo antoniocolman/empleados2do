@@ -39,7 +39,6 @@ namespace InterfazEmpleados
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Cargo cargo = new Cargo();
-            cargo.ID_Cargo = Cargo.ObtenerCargos().Count + 1;
             cargo.descripcion = txtDescripcion.Text;
 
             Cargo.AgregarCargo(cargo);
