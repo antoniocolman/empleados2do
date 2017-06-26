@@ -24,18 +24,15 @@ namespace BibliotecaProyecto
                     //Paso 2 - Abrir la conexión
                     con.Open();
 
-                    string textoCmd = @"insert into Cargo (ID_Cargo, Descripcion) 
-                                        values (@ID_Cargo, @Descripcion)";
+                    string textoCmd = @"insert into Cargo (Descripcion) 
+                                        values (@Descripcion)";
 
                     SqlCommand cmd = new SqlCommand(textoCmd, con);
 
-                    SqlParameter p1 = new SqlParameter("@ID_Cargo", c.ID_Cargo);
-                    p1.SqlDbType = SqlDbType.VarChar;
-
+                    
                     SqlParameter p2 = new SqlParameter("@Descripcion", c.descripcion);
                     p2.SqlDbType = SqlDbType.VarChar;
 
-                    cmd.Parameters.Add(p1);
                     cmd.Parameters.Add(p2);
                     
                     try

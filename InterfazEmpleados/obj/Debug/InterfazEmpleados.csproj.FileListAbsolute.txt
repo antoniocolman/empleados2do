@@ -58,3 +58,6 @@ C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpl
 C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.frmReposo.resources
 C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.Properties.Resources.resources
 C:\Users\johnson\Downloads\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.csproj.GenerateResource.Cache
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\InterfazEmpleados\bin\Debug\InterfazEmpleados.exe.config
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.exe
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\InterfazEmpleados\obj\Debug\InterfazEmpleados.pdb
