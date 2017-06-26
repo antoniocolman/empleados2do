@@ -128,15 +128,19 @@ namespace BibliotecaProyecto
                 {
                     con.Open();
 
-                    string textoCmd = @"Update Cargo set Descripcion_Cargo = @Descripcion_Cargo, 
+                    string textoCmd = @"Update Cargo set Descripcion_Cargo = @Descripcion_Cargo
                                         where ID_Cargo = @ID_Cargo";
 
                     SqlCommand cmd = new SqlCommand(textoCmd, con);
 
                     SqlParameter p1 = new SqlParameter("@Descripcion_Cargo", cargo.descripcion);
                     p1.SqlDbType = SqlDbType.VarChar;
+                    
+                    SqlParameter p2 = new SqlParameter("@ID_Cargo", cargo.ID_Cargo);
+                    p2.SqlDbType = SqlDbType.Int;
 
                     cmd.Parameters.Add(p1);
+                    cmd.Parameters.Add(p2);
 
                     try
                     {
