@@ -47,7 +47,9 @@
             this.menuInformesLlegadasTardias = new System.Windows.Forms.ToolStripMenuItem();
             this.menuInformesLiquidaciones = new System.Windows.Forms.ToolStripMenuItem();
             this.cambiosDeCargoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -77,14 +79,14 @@
             // menuSistemaParametros
             // 
             this.menuSistemaParametros.Name = "menuSistemaParametros";
-            this.menuSistemaParametros.Size = new System.Drawing.Size(152, 22);
+            this.menuSistemaParametros.Size = new System.Drawing.Size(143, 22);
             this.menuSistemaParametros.Text = "Parámetros";
             this.menuSistemaParametros.Click += new System.EventHandler(this.menuSistemaParametros_Click);
             // 
             // menuSistemaSalir
             // 
             this.menuSistemaSalir.Name = "menuSistemaSalir";
-            this.menuSistemaSalir.Size = new System.Drawing.Size(152, 22);
+            this.menuSistemaSalir.Size = new System.Drawing.Size(143, 22);
             this.menuSistemaSalir.Text = "Salir";
             this.menuSistemaSalir.Click += new System.EventHandler(this.menuSistemaSalir_Click);
             // 
@@ -200,12 +202,23 @@
             this.cambiosDeCargoToolStripMenuItem.Size = new System.Drawing.Size(186, 22);
             this.cambiosDeCargoToolStripMenuItem.Text = "Cambios de Cargo";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::InterfazEmpleados.Properties.Resources.Existen_distintos_tipos_de_empresas;
+            this.pictureBox1.Location = new System.Drawing.Point(93, 126);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(328, 197);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 8;
+            this.pictureBox1.TabStop = false;
+            // 
             // frmMenuPrincipal
             // 
             this.ApplyImageInvert = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(534, 361);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
             this.Name = "frmMenuPrincipal";
             this.Style = MetroFramework.MetroColorStyle.Purple;
@@ -214,6 +227,7 @@
             this.Load += new System.EventHandler(this.frmMenuPrincipal_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -240,5 +254,6 @@
         private System.Windows.Forms.ToolStripMenuItem menuSistemaParametros;
         private System.Windows.Forms.ToolStripMenuItem menuSistemaSalir;
         private System.Windows.Forms.ToolStripMenuItem cambiosDeCargoToolStripMenuItem;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
