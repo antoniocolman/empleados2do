@@ -8,6 +8,6 @@ namespace BibliotecaProyecto
 {
     class ConexionGlobal
     {
-            public static string CadenaConexionBaseDatos = "Data Source = localhost; Initial Catalog = Nomina_TP; User ID=DESKTOP-LTUOLQN\\csarl; Password = est4281292";
+            public static string CadenaConexionBaseDatos = "Data Source = NT_ALCIDES\\SQLEXPRESS; Initial Catalog = Nomina_TP; User ID=sa; Password = sqlserver";
     }
 }

@@ -24,7 +24,7 @@ namespace BibliotecaProyecto
                     //Paso 2 - Abrir la conexión
                     con.Open();
 
-                    string textoCmd = @"insert into Cargo (Descripcion) 
+                    string textoCmd = @"insert into Cargo (Descripcion_cargo) 
                                         values (@Descripcion)";
 
                     SqlCommand cmd = new SqlCommand(textoCmd, con);

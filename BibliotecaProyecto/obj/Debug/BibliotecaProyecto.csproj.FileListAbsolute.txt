@@ -18,3 +18,8 @@ C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\bin\Debug\BibliotecaP
 C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
 C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.dll
 C:\Users\johnson\Downloads\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.dll
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.csprojResolveAssemblyReference.cache
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.dll
+C:\Users\Alcides Daniel\Source\Repos\empleados2do\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb
